@@ -109,6 +109,7 @@ img.full-width {
 .toc {
   background-color: #fff;
   border: 2px solid #102a43;
+  margin-bottom: 16px;
   padding: 12px;
   text-align: center;
 }
@@ -144,4 +145,12 @@ img.full-width {
 
 .footer a {
   color: #fff;
+}
+
+#mc_embed_signup {
+  background: #fff;
+  box-shadow: 0 12px 40px hsla(0, 0%, 0%, 0.16);
+  clear: left;
+  color: #102a43;
+  font: 14px Arial, Helvetica, sans-serif;
 }
